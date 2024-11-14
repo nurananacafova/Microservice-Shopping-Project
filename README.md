@@ -1,4 +1,5 @@
 # Microservice Shopping App
+### Note: This project is not completed yet!
 
 Services are:
 
