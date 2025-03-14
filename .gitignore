@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+pgadmin
+postgres
+postgres_inventory_data
+postgres_order_data
+/data
